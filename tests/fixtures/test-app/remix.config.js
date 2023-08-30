@@ -5,7 +5,6 @@ module.exports = {
   appDirectory: "app",
   assetsBuildDirectory: "public/build",
   publicPath: "/build/",
-  serverBuildDirectory: "server/build",
+  serverBuildPath: "desktop/build/index.js",
   devServerPort: 8002,
-  ignoredRouteFiles: [".*"]
-};
+}
